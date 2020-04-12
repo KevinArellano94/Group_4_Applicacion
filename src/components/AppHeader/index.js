@@ -1,6 +1,7 @@
 import React from 'react'
 import deployButton from '../../assets/deploy-to-netlify.svg'
-import logo from '../../assets/logo.svg'
+//import logo from '../../assets/logo.svg'
+import logo from "../../assets/group-4-logo.jpg";
 import github from '../../assets/github.svg'
 import styles from './AppHeader.css' // eslint-disable-line
 
